@@ -1,5 +1,5 @@
 # MapTrack Project
-> Technology: PHP,JQuery,HTML,CSS,Apache
+> Technology: PHP,JQuery,HTML,CSS,Apache,MySQL
 
 # Quick Start
 1. Apache and PHP is needed - Use XAMPP
